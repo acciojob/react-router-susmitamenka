@@ -4,7 +4,8 @@ import Home from "./componant/Home"
 import About from "./componant/About"
 import Navigation from "./componant/Navigation"
 import{ Routes,Route} from "react-router-dom"
-import './../styles/App.css';
+import "./style.css"
+// import './../styles/App.css';
 
 const App = () => {
   return (
