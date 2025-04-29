@@ -1,11 +1,14 @@
 
 import React from "react";
-import Home from "./componant/Home"
-import About from "./componant/About"
-import Navigation from "./componant/Navigation"
+// import Home from "./components/Home"
+// import About from "./components/About"
+// import Navigation from "./components/Navigation"
+import Home from "./Home";
+import About from "./About";
+import Navigation from "./Navigation";
 import{ Routes,Route} from "react-router-dom"
-import "./style.css"
-// import './../styles/App.css';
+
+
 
 const App = () => {
   return (
